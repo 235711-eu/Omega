@@ -1,0 +1,9 @@
+/output/
+/build/artifacts/
+build/device/**/*.pyc
+/.vs/
+epsilon.elf
+epsilon.map
+.vscode
+.DS_Store
+.gradle
